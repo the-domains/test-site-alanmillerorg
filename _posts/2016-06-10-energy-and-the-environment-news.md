@@ -24,8 +24,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://www.sciencedaily.com/news/earth_climate/energy/'
 title: Energy and the Environment News
-datePublished: '2016-06-10T00:25:07.792Z'
-dateModified: '2016-06-10T00:23:01.482Z'
+datePublished: '2016-06-10T00:28:35.575Z'
+dateModified: '2016-06-10T00:23:33.121Z'
 starred: false
 sourcePath: _posts/2016-06-10-energy-and-the-environment-news.md
 inFeed: true
