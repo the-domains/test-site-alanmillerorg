@@ -4,8 +4,15 @@
         <description><![CDATA[test site]]></description>
         <link>https://thegrid.ai/test-site-alanmillerorg/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 10 Jun 2016 00:29:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jun 2016 00:30:05 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/test-site-alanmillerorg/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Insights on Sustainability | JLL Real Views]]></title>
+            <description><![CDATA[<article><h1>Insights on Sustainability | JLL Real Views</h1><p>Find out more about how real estate is embedding sustainability with fresh stories on the latest trends and developments from JLL Real Views.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5898bd559754c6b2de3f7d4481b5b85705f5717c.jpg"></article>]]></description>
+            <link>http://www.jllrealviews.com/category/trends/sustainability/?campaignid=375272924&amp;adgroupid=26506601084&amp;keyword=clean%20energy&amp;matchtype=b&amp;creative=89328652844&amp;gclid=CN-N5vuZnM0CFQUHvAodsMcHnQ</link>
+            <guid isPermaLink="false">977e23a8-aa18-440b-9791-4a1d825808a5</guid>
+            <pubDate>Fri, 10 Jun 2016 00:30:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Solar Energy News]]></title>
             <description><![CDATA[<article><h1>Solar Energy News</h1><p>The content herein, unless otherwise known to be public domain, are Copyright 1995-2016 - Space Media Network. All websites are published in Australia and are solely subject to Australian law and governed by Fair Use principals for news reporting and research purposes.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8ed2c72364c740e42cd73fb9195d2eb5a67956e5.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Light painting with pixelstick</h1><p>More info at thepixelstick.com! We spent the last year building pixelstick, a light painting tool capable of everything from photo-real renders to amazing abstract ribbons. We've improved with every iteration and are excited to finally show off what it can do. Everything was shot by just two slightly sleep deprived guys and one Pixelstick in Brooklyn.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5080ae11f6ad71390eca523c2eba50c17928b5da.jpg"></article>]]></description>
             <link>https://vimeo.com/78163959</link>
             <guid isPermaLink="false">4619a3ca-574c-47aa-bacf-3e42a52153f0</guid>
-            <pubDate>Fri, 10 Jun 2016 00:02:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bits And Pieces - An organic wave of Hoberman Spheres]]></title>
-            <description><![CDATA[<article><h1>Bits And Pieces - An organic wave of Hoberman Spheres</h1><p>Currently on show at Berlin's NOME Gallery is the latest work by Nils Völker titled Bits And Pieces. The installation consists out of 108 mass-produced toy spheres hanging in the middle of the exhibition space, individually addressable and controlled, to create organic waves that appear to move throughout the space.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/29c17de1db318a16ae7c090ab6a2dab8f308c76c.jpg"></article>]]></description>
-            <link>http://www.creativeapplications.net/news/bits-and-pieces-an-inverted-landscape-of-always-moving-hoberman-spheres/</link>
-            <guid isPermaLink="false">08503c24-4192-4b75-b638-dc664807273d</guid>
             <pubDate>Fri, 10 Jun 2016 00:02:04 GMT</pubDate>
         </item>
     </channel>
