@@ -4,22 +4,8 @@
         <description><![CDATA[test site]]></description>
         <link>https://thegrid.ai/test-site-alanmillerorg/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 10 Jun 2016 00:36:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jun 2016 00:35:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/test-site-alanmillerorg/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Nuclear Power Technology, Science And Industry News]]></title>
-            <description><![CDATA[<article><h1>Nuclear Power Technology, Science And Industry News</h1><p>Nuclear News - Nuclear Power Daily brings you daily news on nuclear energy science and technology.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ce20e8ba7ee501383581eeb117243f7e49ed3a84.jpg"></article>]]></description>
-            <link>http://www.nuclearpowerdaily.com/</link>
-            <guid isPermaLink="false">2339c2d2-03b5-4f54-a25c-4acd28304e3a</guid>
-            <pubDate>Fri, 10 Jun 2016 00:36:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Energy Intelligence | information services - Oil daily]]></title>
-            <description><![CDATA[<article><h1>Energy Intelligence | information services - Oil daily</h1><p>Canadian Natural Resources said on Thursday it returned to normal operations at its Pelican Lake ... Large additions to US oil storage capacity over the past year have prevented domestic oil tanks ... Exxon Mobil should have its 149,500 b/d Torrance refinery running at full capacity by Jun. 13, ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/24278ef436c2417d2879720421397939c84caa45.gif"></article>]]></description>
-            <link>http://www.energyintel.com/pages/about_tod.aspx</link>
-            <guid isPermaLink="false">e698760d-bfea-4461-9f48-8fe6d2f393a9</guid>
-            <pubDate>Fri, 10 Jun 2016 00:35:50 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Daily News | Enerdata]]></title>
             <description><![CDATA[<article><h1>Daily News | Enerdata</h1><p>Press & Publications Executive Brief Daily News Publications Statistical Yearbook</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b08ec642c32b056990f1e06d5b8e9d43652d4f9b.jpg"></article>]]></description>
@@ -75,6 +61,20 @@
             <link>https://www.ihs.com/products/energy-news-daily.html</link>
             <guid isPermaLink="false">8bf50497-99c0-46e2-a651-a4bd30e8adea</guid>
             <pubDate>Fri, 10 Jun 2016 00:25:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Unplanned global oil supply disruptions reach highest level since at least 2011]]></title>
+            <description><![CDATA[<article><h1>Unplanned global oil supply disruptions reach highest level since at least 2011</h1><p>Source: U.S. Energy Information Administration, Short-Term Energy Outlook , June 2016 Note: OPEC is the Organization of the Petroleum Exporting Countries. OPEC disruptions include crude oil only, while non-OPEC disruptions include crude oil and other liquid fuels.</p></article>]]></description>
+            <link>https://www.eia.gov/todayinenergy/detail.cfm?id=26592</link>
+            <guid isPermaLink="false">54ff67a4-4359-4d6c-a652-0d24f4fdcf28</guid>
+            <pubDate>Fri, 10 Jun 2016 00:25:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Energy and the Environment News]]></title>
+            <description><![CDATA[<article><h1>Energy and the Environment News</h1><p>Energy Sources. News and Research. Articles on everything from hydrogen powered cars and solar energy systems to nuclear reactors and fossil fuels.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/44a362da8e760df49e18d242d292ce17c22c8b22.jpg"></article>]]></description>
+            <link>https://www.sciencedaily.com/news/earth_climate/energy/</link>
+            <guid isPermaLink="false">293c81f2-89fe-4e5d-ae76-9e53107546ef</guid>
+            <pubDate>Fri, 10 Jun 2016 00:25:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
