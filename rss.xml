@@ -4,8 +4,15 @@
         <description><![CDATA[test site]]></description>
         <link>https://thegrid.ai/test-site-alanmillerorg/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 10 Jun 2016 00:30:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jun 2016 00:30:38 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/test-site-alanmillerorg/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Renewable Energy News and Energy Regulation Information | The Energy Daily]]></title>
+            <description><![CDATA[<article><h1>Renewable Energy News and Energy Regulation Information | The Energy Daily</h1><p>From the oil embargos in the 70s, to the collapse of oil prices and the growth of natural gas in the 80s, to the emergence of electric competition and alternative fuels in the 90s, to the failure of Enron and the deliberations on the energy bill, The Energy Daily has kept its readers at the forefront of all major developments in the energy industry.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2603a01f63225f1b23708e2ec40d4bd77a19960e.png"></article>]]></description>
+            <link>http://www.theenergydaily.com/?ocid=pc161-uncnvtnlsblog:energy:social:0032</link>
+            <guid isPermaLink="false">0d2e603b-657e-48cc-bfd4-159027dd00ee</guid>
+            <pubDate>Fri, 10 Jun 2016 00:30:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Insights on Sustainability | JLL Real Views]]></title>
             <description><![CDATA[<article><h1>Insights on Sustainability | JLL Real Views</h1><p>Find out more about how real estate is embedding sustainability with fresh stories on the latest trends and developments from JLL Real Views.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5898bd559754c6b2de3f7d4481b5b85705f5717c.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>2016 heralds beginning of the "megatall" skyscraper era</h1><p>The number of skyscrapers over 600 metres high - known as "megatalls" - is set to more than double in the next few years, say experts. Skyscraper authority the Council on Tall Buildings and Urban Habitat (CTBUH) has revealed that the number of 600-metre-plus buildings in the world is set to rise from three to seven in the next five years.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6dc254f102a656394610b9763b92e10cf71a534a.jpg"></article>]]></description>
             <link>http://www.dezeen.com/2016/01/22/2016-megatall-skyscraper-era-council-tall-buildings-urban-habitat-ctbuh/</link>
             <guid isPermaLink="false">ce9f4073-2bfc-403d-bb0e-f3442bf016a0</guid>
-            <pubDate>Fri, 10 Jun 2016 00:02:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Light painting with pixelstick]]></title>
-            <description><![CDATA[<article><h1>Light painting with pixelstick</h1><p>More info at thepixelstick.com! We spent the last year building pixelstick, a light painting tool capable of everything from photo-real renders to amazing abstract ribbons. We've improved with every iteration and are excited to finally show off what it can do. Everything was shot by just two slightly sleep deprived guys and one Pixelstick in Brooklyn.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5080ae11f6ad71390eca523c2eba50c17928b5da.jpg"></article>]]></description>
-            <link>https://vimeo.com/78163959</link>
-            <guid isPermaLink="false">4619a3ca-574c-47aa-bacf-3e42a52153f0</guid>
             <pubDate>Fri, 10 Jun 2016 00:02:04 GMT</pubDate>
         </item>
     </channel>
