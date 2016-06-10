@@ -4,8 +4,15 @@
         <description><![CDATA[test site]]></description>
         <link>https://thegrid.ai/test-site-alanmillerorg/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 10 Jun 2016 00:28:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jun 2016 00:28:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/test-site-alanmillerorg/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Energy and the Environment News]]></title>
+            <description><![CDATA[<article><h1>Energy and the Environment News</h1><p>Energy Sources. News and Research. Articles on everything from hydrogen powered cars and solar energy systems to nuclear reactors and fossil fuels.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/44a362da8e760df49e18d242d292ce17c22c8b22.jpg"></article>]]></description>
+            <link>https://www.sciencedaily.com/news/earth_climate/energy/</link>
+            <guid isPermaLink="false">d26253df-8fd4-45b1-9767-65d3f1c85279</guid>
+            <pubDate>Fri, 10 Jun 2016 00:28:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Solar Energy News]]></title>
             <description><![CDATA[<article><h1>Solar Energy News</h1><p>The content herein, unless otherwise known to be public domain, are Copyright 1995-2016 - Space Media Network. All websites are published in Australia and are solely subject to Australian law and governed by Fair Use principals for news reporting and research purposes.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8ed2c72364c740e42cd73fb9195d2eb5a67956e5.jpg"></article>]]></description>
