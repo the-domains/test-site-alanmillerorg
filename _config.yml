@@ -1,15 +1,15 @@
-layout_spectrum: 0.8352255874779075
-typography_spectrum: 0.1998655127827078
+layout_spectrum: 0.5357193059753627
+typography_spectrum: 0.7902022297494113
 color:
-  brandStrength: 0.6987199769355357
-  lightness: 0.8902228663209826
-  saturation: 0.7328421673737466
-  rhythmicContrast: 0.2394544796552509
+  brandStrength: 0.3028287119232118
+  lightness: 0.16888313135132194
+  saturation: 0.7917265628930181
+  rhythmicContrast: 0.7135028371121734
   brandColors:
-    - '#85DB18'
-    - '#CDE855'
-    - '#F5F6D4'
-    - '#A7C520'
-    - '#493F0B'
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
 name: Alanmiller.org
 title: test site
