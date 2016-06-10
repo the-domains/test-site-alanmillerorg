@@ -1,0 +1,14 @@
+layout_spectrum: 0.3596331609878689
+typography_spectrum: 0.9724211823195219
+color:
+  brandStrength: 0.6892616543918848
+  lightness: 0.530857430305332
+  saturation: 0.474109617061913
+  rhythmicContrast: 0.2742527686059475
+  brandColors:
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+name: Test Site Alanmiller.org
