@@ -26,8 +26,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.solardaily.com/'
 title: Solar Energy News
-datePublished: '2016-06-10T00:28:34.808Z'
-dateModified: '2016-06-10T00:27:57.919Z'
+datePublished: '2016-06-10T00:29:21.915Z'
+dateModified: '2016-06-10T00:28:01.955Z'
 starred: false
 sourcePath: _posts/2016-06-10-solar-energy-news.md
 inFeed: true
